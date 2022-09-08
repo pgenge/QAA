@@ -1,0 +1,46 @@
+	Command being timed: "/projects/bgmp/pgenge/bioinfo/Bi623/QAA/scripts/readlen_distribution_undetermined.py -r1 /projects/bgmp/pgenge/bioinfo/Bi623/QAA/trimmomatic_out/undetermined_forward_paired.fq.gz -r2 /projects/bgmp/pgenge/bioinfo/Bi623/QAA/trimmomatic_out/undetermined_reverse_paired.fq.gz -o1 undetermined_readlendist_R1.png -o2 undetermined_readlendist_R2.png"
+	User time (seconds): 44.91
+	System time (seconds): 0.71
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:45.24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 618168
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 71500
+	Voluntary context switches: 542
+	Involuntary context switches: 391487
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "/projects/bgmp/pgenge/bioinfo/Bi623/QAA/scripts/readlen_distribution_control.py -r1 /projects/bgmp/pgenge/bioinfo/Bi623/QAA/trimmomatic_out/2_2B_control_forward_paired.fq.gz -r2 /projects/bgmp/pgenge/bioinfo/Bi623/QAA/trimmomatic_out/2_2B_control_reverse_paired.fq.gz -o1 2_2B_control_readlendist_R1.png -o2 2_2B_control_readlendist_R2.png"
+	User time (seconds): 20.41
+	System time (seconds): 0.95
+	Percent of CPU this job got: 103%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:20.67
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 315276
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 52947
+	Voluntary context switches: 562
+	Involuntary context switches: 179400
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
